@@ -1,6 +1,6 @@
 # Modernizr [![Build Status](http://img.shields.io/travis/Modernizr/Modernizr/master.svg)](http://travis-ci.org/Modernizr/Modernizr) [![Inline docs](http://inch-ci.org/github/Modernizr/Modernizr.svg?branch=master)](http://inch-ci.org/github/Modernizr/Modernizr)
 
-##### Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
+##### Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser. <my edit to readme>
 
 - [Website](http://www.modernizr.com)
 - [Documentation](http://www.modernizr.com/docs/)
